@@ -1,0 +1,5 @@
+../board/board.c:24:10:BOARD_DebugConsoleSrcFreq	8	static
+../board/board.c:36:6:BOARD_InitDebugConsole	8	static
+../board/board.c:262:6:BOARD_ConfigMPU	40	static
+../board/board.c:662:6:BOARD_SD_Pin_Config	0	static
+../board/board.c:666:6:BOARD_MMC_Pin_Config	0	static

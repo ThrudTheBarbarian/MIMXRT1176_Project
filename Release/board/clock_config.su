@@ -1,0 +1,6 @@
+/Users/simon/src/i.mxrt1170/helloworld/workspace/MIMXRT1176_Project/drivers/fsl_dcdc.h:629:20:DCDC_SetVDD1P0BuckModeTargetVoltage.constprop	0	static
+/Users/simon/src/i.mxrt1170/helloworld/workspace/MIMXRT1176_Project/drivers/fsl_clock.h:2240:24:CLOCK_GetRootClockFreq.constprop	8	static
+/Users/simon/src/i.mxrt1170/helloworld/workspace/MIMXRT1176_Project/drivers/fsl_clock.h:2157:20:CLOCK_SetRootClock.isra	0	static
+../board/clock_config.c:274:6:BOARD_BootClockRUN	8	static
+../board/clock_config.c:39:6:BOARD_InitBootClocks	0	static
+../board/clock_config.c:1087:6:BOARD_BootClockRUN_800M	8	static
